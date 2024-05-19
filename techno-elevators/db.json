@@ -1,0 +1,49 @@
+{
+    "items": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "About",
+        "url": "/about"
+      },
+      {
+        "label": "Services",
+        "url": "/services"
+      },
+      {
+        "label": "Contact",
+        "url": "/contact"
+      },
+      {
+        "images":[
+            {"image":"/Images/sliders/empty-escalator-view (1).jpg"},
+            {"image":"/Images/sliders/indoor-city-white-clean-city-escalator.jpg"},
+            {"image":"/Images/sliders/interior-space-department-store.jpg"}
+
+
+        ]
+      },
+
+      {
+        "options":[
+          { "selectcar":"selectcar", "cars":"nissan","modals":[
+            {"year":2019},
+            {"year":2020},
+            {"year":2021}
+          ]},
+          {"cars":"bmw","modals":[
+            {"year":2022},
+            {"year":2023},
+            {"year":2021}
+          ]}
+        ]
+
+      }
+      
+
+    
+    ]
+  }
+  
